@@ -11,22 +11,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://fdu-msc.github.io/forum/contribute/</loc>
-     <lastmod>2019-10-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://fdu-msc.github.io/forum/mkdocs-intro/</loc>
-     <lastmod>2019-10-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://fdu-msc.github.io/forum/welcome/</loc>
      <lastmod>2019-10-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://fdu-msc.github.io/forum/build/</loc>
+     <lastmod>2019-10-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://fdu-msc.github.io/forum/build/contribute/</loc>
+     <lastmod>2019-10-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://fdu-msc.github.io/forum/build/mkdocs-intro/</loc>
+     <lastmod>2019-10-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://fdu-msc.github.io/forum/build/CICD/</loc>
      <lastmod>2019-10-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
