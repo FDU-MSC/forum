@@ -950,6 +950,15 @@ pip install mkdocs-material
 </pre></div>
 </td></tr></table>
 
+<p>扒到本地之后，你就可以在本地构建了</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2</pre></div></td><td class="code"><div class="codehilite"><pre><span></span><span class="n">cd</span> <span class="n">forum</span>
+<span class="n">mkdocs</span> <span class="n">serve</span> <span class="o">-</span><span class="n">a</span> <span class="n">localhost</span><span class="p">:</span><span class="mi">9999</span>
+</pre></div>
+</td></tr></table>
+
+<p>然后网站就会 host 在你本地的服务器上，通过 <a href="http://localhost:9999">http://localhost:9999</a> 即可访问。</p>
+<p>当你作出任何改动之后，在提交之前，请确保你改动之后的结果能在本地通过编译，即运行 <code>mkdocs build</code> 不出现报错信息。</p>
 <h2 id="mkdocs">mkdocs 主题<a class="headerlink" href="#mkdocs" title="Permanent link">&para;</a></h2>
 <p>我们使用 <a href="https://squidfunk.github.io/mkdocs-material/">mkdocs-material</a> 作为网站的主题。关于该主题的配置与使用，请参考<a href="https://squidfunk.github.io/mkdocs-material/">链接</a></p>
 <h2 id="_3">文件结构<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
