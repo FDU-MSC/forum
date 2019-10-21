@@ -901,7 +901,7 @@
 	$.ajax({
 		type: "GET",
 		dataType: "json",
-		url: "/_static/autherList.json",
+		url: "../_static/autherList.json",
 		success: function (result) {
 			allList = eval(result)
 			authorList = allList[fileName]
